@@ -2,7 +2,7 @@ import SwiftUI
 import AppIntents
 
 enum Constants {
-	static let appGroupID = "group.com.sindresorhus.Actions"
+	static let appGroupID = "group.com.memery.Actions"
 	static let sharedDefaults = UserDefaults(suiteName: appGroupID)!
 	static let defaultsKey_sendCrashReports = "sendCrashReports"
 }
